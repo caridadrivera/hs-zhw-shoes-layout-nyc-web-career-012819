@@ -342,7 +342,7 @@ section a {
   margin-left: 0;
 }
 
-#shadow {
+[class*="col-2"]{
   margin: 20px;
 }
 
