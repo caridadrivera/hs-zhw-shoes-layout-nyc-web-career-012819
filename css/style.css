@@ -342,7 +342,9 @@ section a {
   margin-left: 0;
 }
 
-#
+#shadow .col-2first{
+  padding: 10px;
+}
 
 /********** Footer **********/
 
