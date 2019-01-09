@@ -293,6 +293,17 @@ section a {
   margin:0 auto;
 }
 
+.col-1 {
+  float: left;
+  
+}
+
+.col-2 {
+  float:left;
+  
+}
+
+
 /********** Footer **********/
 
 footer {
