@@ -300,7 +300,7 @@ section a {
 }
 
 .col-1 {
-
+ float: left;
   width: 49%;
   
 }
