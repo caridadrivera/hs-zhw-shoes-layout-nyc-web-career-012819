@@ -342,9 +342,6 @@ section a {
   margin-left: 0;
 }
 
-[class*="col-2"]{
-  margin: 20px;
-}
 
 /********** Footer **********/
 
