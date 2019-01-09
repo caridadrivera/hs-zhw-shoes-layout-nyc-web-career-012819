@@ -345,9 +345,20 @@ section a {
 }
 
 .column1{
+  float: left;
+  width: 31.33%;
   
 }
 
+.column2{
+  float: left;
+  width: 31.33%;
+  
+}
+
+.column3{
+  
+}
 
 
 /********** Footer **********/
