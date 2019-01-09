@@ -288,6 +288,11 @@ section a {
   text-decoration: underline;
 }
 
+.wrapper {
+  width: 960px;
+  margin:0;
+}
+
 /********** Footer **********/
 
 footer {
